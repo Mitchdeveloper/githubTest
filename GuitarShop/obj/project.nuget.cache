@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6KIRJGSsycgkMjhyiGOy1OL8gEH1Sg8r86bN2DJ7DeBFvdQyeDFvaQzD3ZXBTW+fwQB+goW6E+PxVniY8729QQ==",
+  "dgSpecHash": "c5HNGWbmhRva/XdPikuA8PdWlwH2b6T/tE8lg5F9Dt+bLUWevCUJZcPagL0Tvbwfb+68Lp84jYvgAw8BVE4wkA==",
   "success": true,
-  "projectFilePath": "c:\\githubTest\\GuitarShop\\GuitarShop.csproj",
+  "projectFilePath": "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\goldberm\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\goldberm\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

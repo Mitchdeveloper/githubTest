@@ -6262,11 +6262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\githubTest\\GuitarShop\\GuitarShop.csproj",
+      "projectUniqueName": "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj",
       "projectName": "GuitarShop",
-      "projectPath": "c:\\githubTest\\GuitarShop\\GuitarShop.csproj",
+      "projectPath": "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj",
       "packagesPath": "C:\\Users\\goldberm\\.nuget\\packages\\",
-      "outputPath": "c:\\githubTest\\GuitarShop\\obj\\",
+      "outputPath": "c:\\GuitarTest\\githubTest\\GuitarShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
