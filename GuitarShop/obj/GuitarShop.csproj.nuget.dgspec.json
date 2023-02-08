@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj": {}
+    "c:\\Clone2\\githubTest\\GuitarShop\\GuitarShop.csproj": {}
   },
   "projects": {
-    "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj": {
+    "c:\\Clone2\\githubTest\\GuitarShop\\GuitarShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj",
+        "projectUniqueName": "c:\\Clone2\\githubTest\\GuitarShop\\GuitarShop.csproj",
         "projectName": "GuitarShop",
-        "projectPath": "c:\\GuitarTest\\githubTest\\GuitarShop\\GuitarShop.csproj",
+        "projectPath": "c:\\Clone2\\githubTest\\GuitarShop\\GuitarShop.csproj",
         "packagesPath": "C:\\Users\\goldberm\\.nuget\\packages\\",
-        "outputPath": "c:\\GuitarTest\\githubTest\\GuitarShop\\obj\\",
+        "outputPath": "c:\\Clone2\\githubTest\\GuitarShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
